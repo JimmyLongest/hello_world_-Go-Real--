@@ -1,0 +1,9 @@
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Printf("Hello, World!\n")
+}
+
+The above code is to be typed into sublime, saved, then accessed through the terminal.
